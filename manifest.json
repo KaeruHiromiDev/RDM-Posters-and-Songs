@@ -1,0 +1,11 @@
+{
+  "name": "RDM Posters and Songs",
+  "version_number": "1.0",
+  "website_url": "https://kaerufroskr.com/",
+  "description": "Adds meme posters and paintings and songs for the RDM group",
+  "dependencies": [
+    "femboytv-LethalPosters-1.2.0",
+    "femboytv-LethalPaintings-1.2.0",
+    "Steven-Custom_Boombox_Music-1.4.0"
+  ]
+}
